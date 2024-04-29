@@ -7,12 +7,6 @@
   </a>
 </p>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rhysroo" alt="rhysroo" />
-  </a> 
-</p>
-
 - 🌱 I'm currently learning: Python, Machine Learning, Web Development
 - 💬 Ask me about: 
   - 2nd year Computer Science student looking for an industrial placement 
@@ -67,8 +61,12 @@
   </a>
 </p>
 
-
-
+<h3 align="left">Certifications:</h3>
+<ul>
+<li>Tensorflow on Google Cloud - Coursera</li>
+<li>Introduction to Dart - Linkedin Learning</li>
+<li>Learn Python 3 - Codecademy</li>
+</ul>
 <!--
 **RhysRoo/RhysRoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rhys Parsons</h1>
-<h3 align="center">A passionate Computer Science Student from the University of Portsmouth</h3>
+<h3 align="center">A Passionate Computer Science Student from the University of Portsmouth</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rhysroo" alt="rhysroo" /></a> </p>
 

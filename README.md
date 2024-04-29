@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rhys Parsons</h1>
-<h3 align="center">A passionate Computer Science Student from the University of Portsmouth</h3>
+<h3 align="center">A Passionate Computer Science Student from the University of Portsmouth</h3>
 
 <p align="center"> 
   <a href="https://www.port.ac.uk" target="_blank" rel="noreferrer"> 

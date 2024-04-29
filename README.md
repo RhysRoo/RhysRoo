@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rhys Parsons</h1>
 <h3 align="center">A passionate Computer Science Student from the University of Portsmouth</h3>
 
-<p align="left"> 
+<p align="center"> 
   <a href="https://www.port.ac.uk" target="_blank" rel="noreferrer"> 
     <img src="https://www.port.ac.uk/themes/custom/portsmouth//images/logo-mobile.png" alt="UoP" width="40" height="40"/> 
   </a>

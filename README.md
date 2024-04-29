@@ -3,7 +3,7 @@
 
 <p align="center"> 
   <a href="https://www.port.ac.uk" target="_blank" rel="noreferrer"> 
-    <img src="https://www.port.ac.uk/themes/custom/portsmouth//images/logo-mobile.png" alt="UoP" width="150" height="70"/> 
+    <img src="https://www.port.ac.uk/themes/custom/portsmouth//images/logo-mobile.png" alt="UoP" width="180" height="70"/> 
   </a>
 </p>
 

@@ -7,7 +7,7 @@
   </a>
 </p>
 
-- 🌱 I'm currently learning: Python, Machine Learning, Web Development
+- 🌱 I'm currently learning: Machine Learning, Compiler Design(Programming Languages)
 - 💬 Ask me about: 
   - 2nd year Computer Science student looking for an industrial placement 
   - Highly motivated and hardworking individual who is quick to grasp new ideas and concepts

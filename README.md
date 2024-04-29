@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Haskell, Tensorflow/Keras**
 
-- 💬 Ask me about **2nd year Computer Science student looking for an industrial placement. Highly motivated and hardworking individual who is quick to grasp new ideas and concepts. Able to work well on own initiative as well as part of a team and can demonstrate the high levels of motivation required to meet the tightest of deadlines.**
+- 💬 Ask me about: **2nd year Computer Science student looking for an industrial placement. Highly motivated and hardworking individual who is quick to grasp new ideas and concepts. Able to work well on own initiative as well as part of a team and can demonstrate the high levels of motivation required to meet the tightest of deadlines.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -7,12 +7,23 @@
   </a>
 </p>
 
-- 🌱 I'm currently learning: Machine Learning, Compiler Design(Programming Languages)
-- 💬 Ask me about: 
-  - 2nd year Computer Science student looking for an industrial placement 
-  - Highly motivated and hardworking individual who is quick to grasp new ideas and concepts
-  - Able to work well on own initiative as well as part of a team
-  - Can demonstrate the high levels of motivation required to meet the tightest of deadlines
+<h3 align="left">🌱 I'm currently learning:</h3>
+  <ul>
+  <li>Big Data</li> 
+  <li>Compiler Design (Programming Languages)</li>
+  <li>Data Structures and Algorithms</li>
+  <li>Functional Programming (Haskell)</li>
+  <li>Discrete Mathematics</li>
+  <li>Mobile App Development</li>
+</ul>
+
+<h3 align="left">💬 Ask me about:</h3>
+  <ul>
+  <li>2nd year Computer Science student looking for an industrial placement</li>
+  <li>Highly motivated and hardworking individual who is quick to grasp new ideas and concepts</li>
+  <li>Able to work well on own initiative as well as part of a team</li>
+  <li>Can demonstrate the high levels of motivation required to meet the tightest of deadlines</li>
+  </ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

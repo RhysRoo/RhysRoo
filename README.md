@@ -1,6 +1,6 @@
 <div align="center">
- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDM5MzU1MzU4MmQ4MjllMDk4ZmFhMjBmZDU4NTIxMDNhMDg1NTJkOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/dWesBcTLavkZuG35MI/giphy.gif" alt="Coding GIF 1" width="400" height="300"/>
- <img src="https://camo.githubusercontent.com/8a9c7f854df987a0b488caf7b4ca6fb56e368e1a0b85602574da94c19d1c2d2e/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" alt="Coding GIF 2" width="400" height="300"/>
+ <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDM5MzU1MzU4MmQ4MjllMDk4ZmFhMjBmZDU4NTIxMDNhMDg1NTJkOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/dWesBcTLavkZuG35MI/giphy.gif" alt="Coding GIF 1" width="300" height="200"/>
+ <img src="https://camo.githubusercontent.com/8a9c7f854df987a0b488caf7b4ca6fb56e368e1a0b85602574da94c19d1c2d2e/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" alt="Coding GIF 2" width="300" height="200"/>
 </div>
 
 

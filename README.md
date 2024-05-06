@@ -1,3 +1,5 @@
+<p align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDM5MzU1MzU4MmQ4MjllMDk4ZmFhMjBmZDU4NTIxMDNhMDg1NTJkOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/dWesBcTLavkZuG35MI/giphy.gif" alt="Coding GIF" width="400" height="300"/> </p>
+
 <h1 align="center">Hi 👋, I'm Rhys Parsons</h1>
 <h3 align="center">A Passionate Computer Science Student from the University of Portsmouth</h3>
 

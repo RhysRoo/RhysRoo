@@ -67,6 +67,6 @@
 ---
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=RhysRoo&theme=graywhite&show_icons=true&hide_border=true&count_private=true" alt="Stats" width="400" />
+ <img src="https://github-readme-stats.vercel.app/api?username=RhysRoo&theme=graywhite&show_icons=true&hide_border=true&count_private=true" alt="Stats" width="380" />
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RhysRoo&theme=graywhite&hide_border=true" alt="Stats" width="400"/>
 </div>

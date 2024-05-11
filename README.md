@@ -63,17 +63,14 @@
 <li>Introduction to Dart - Linkedin Learning</li>
 <li>Learn Python 3 - Codecademy</li>
 </ul>
-<!--
-**RhysRoo/RhysRoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=RhysRoo&theme=graywhite&show_icons=true&hide_border=true&count_private=true" alt="Stats" width="400" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=RhysRoo&theme=graywhite&hide_border=true" alt="Stats" width="400"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+ 
+
+
+

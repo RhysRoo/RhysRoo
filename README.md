@@ -22,7 +22,7 @@
   <li>Mobile App Development</li>
 </ul>
 
-<h3 align="left">💬 Ask me about:</h3>
+<h3 align="left">💬 About me:</h3>
   <ul>
   <li>2nd year Computer Science student looking for an industrial placement</li>
   <li>Highly motivated and hardworking individual who is quick to grasp new ideas and concepts</li>

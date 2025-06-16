@@ -14,17 +14,15 @@
 
 <h3 align="left">🌱 I'm currently learning:</h3>
   <ul>
-  <li>Big Data</li> 
-  <li>Compiler Design (Programming Languages)</li>
-  <li>Data Structures and Algorithms</li>
-  <li>Functional Programming (Haskell)</li>
-  <li>Discrete Mathematics</li>
-  <li>Mobile App Development</li>
+  <li>Theorical Computer Science</li> 
+  <li>Artificial Intelligence</li>
+  <li>Final Year Project</li>
+  <li>Distributed Systems</li>
 </ul>
 
 <h3 align="left">💬 About me:</h3>
   <ul>
-  <li>2nd year Computer Science student looking for an industrial placement</li>
+  <li>3nd year Computer Science student looking to gain valuable industry experience</li>
   <li>Highly motivated and hardworking individual who is quick to grasp new ideas and concepts</li>
   <li>Able to work well on own initiative as well as part of a team</li>
   <li>Can demonstrate the high levels of motivation required to meet the tightest of deadlines</li>
@@ -45,8 +43,7 @@
   <td><a href="https://dart.dev/" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" title="Dart" width="60" height="60"/></a></td> 
 </tr> </tbody> </table>
   
-<h3 align="left">Frameworks:</h3> <table> <thead> <tr> <th>Flutter</th> <th>Tensorflow</th> <th>Keras</th> <th>Scikit-Learn</th> </tr> </thead> <tbody> <tr>
-  <td><a href="https://flutter.dev/" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="60" height="60"/></a></td> 
+<h3 align="left">Frameworks:</h3> <table> <thead> <tr> <th>Tensorflow</th> <th>Keras</th> <th>Scikit-Learn</th> </tr> </thead> <tbody> <tr>
   <td align="center"><a href="https://www.tensorflow.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" title="Tensorflow" alt="Tensorflow" width="60" height="60"/></a></td>
   <td><a href="https://keras.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" title="Keras" alt="Keras" width="60" height="60"/></a></td> 
   <td><a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-Learn" alt="Scikit-Learn" width="90" height="60"/></a></td> 

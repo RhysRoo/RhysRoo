@@ -52,8 +52,11 @@
  <td><a href="https://developer.apple.com/swiftui/" target="_blank"><img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-256x256_2x.png" title="SwiftUI" alt="SwiftUI" width="70" height="70"></td>
 </tr> </tbody> </table>
   
-<h3 align="left">Backend:</h3> <table> <thead> <tr> <th>Firebase</th> <th>PostgreSQL</th> </tr> </thead> <tbody> <tr> 
+<h3 align="left">Backend:</h3> <table> <thead> <tr> <th>Firebase</th>  </tr> </thead> <tbody> <tr> 
   <td><a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="60" height="60"/></a></td> 
+</tr> </tbody> </table>
+
+<h3 align="left">Database:</h3> <table> <thead> <tr> <th>PostgreSQL</th> </tr> </thead> <tbody> <tr> 
   <td align="center"><a href="https://www.postgresql.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1080px-Postgresql_elephant.svg.png" title="PostgreSQL" alt="PostgreSQL" width="60" height="60"/></a></td> 
 </tr> </tbody> </table>
 

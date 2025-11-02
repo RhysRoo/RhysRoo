@@ -12,7 +12,7 @@
   </a>
 </p>
 
-<h3 align="left">🌱 I'm Currently Learning and Progressing On:</h3>
+<h3 align="left">🌱 Currently Learning and Progressing Onto:</h3>
   <ul>
   <li>Theorical Computer Science</li> 
   <li>Artificial Intelligence</li>

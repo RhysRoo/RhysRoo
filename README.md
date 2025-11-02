@@ -21,7 +21,7 @@
    <li>Robotics</li>
 </ul>
 
-<h3 align="left">💬 About me:</h3>
+<h3 align="left">💬 About Me:</h3>
   <ul>
   <li>3nd year Computer Science student looking to gain valuable industry experience</li>
   <li>Highly motivated and hardworking individual who is quick to grasp new ideas and concepts</li>
@@ -29,7 +29,7 @@
   <li>Can demonstrate the high levels of motivation required to meet the tightest of deadlines</li>
   </ul>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect With Me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/rhys-parsons-724787181" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rhys-parsons-724787181/" height="30" width="40" />

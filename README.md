@@ -1,6 +1,4 @@
-<div align="center">
- <img src="https://camo.githubusercontent.com/88adc7c88c9d3dba7479020846ed35d13410e3707c7f149e1c6140cc6beaef9a/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" alt="Coding GIF 2" width="300" height="200"/>
-</div>
+
 
 
 <h1 align="center">Hi 👋, I'm Rhys Parsons</h1>
@@ -18,7 +16,7 @@
   <li>Artificial Intelligence</li>
   <li>Final Year Project</li>
   <li>Distributed Systems</li>
-   <li>Robotics</li>
+   <li>Internet of Things</li>
 </ul>
 
 <h3 align="left">💬 About Me:</h3>
@@ -57,7 +55,7 @@
 </tr> </tbody> </table>
 
 <h3 align="left">Database:</h3> <table> <thead> <tr> <th>PostgreSQL</th> </tr> </thead> <tbody> <tr> 
-  <td align="center"><a href="https://www.postgresql.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1080px-Postgresql_elephant.svg.png" title="PostgreSQL" alt="PostgreSQL" width="60" height="60"/></a></td> 
+  <td align="center"><a href="https://www.postgresql.org/" target="_blank"><img src="https://images.g2crowd.com/uploads/product/image/251be2af3ae607c45c14e816eaa1cf41/postgresql.png" title="PostgreSQL" alt="PostgreSQL" width="60" height="60"/></a></td> 
 </tr> </tbody> </table>
 
 <h3 align="left">Certifications:</h3>

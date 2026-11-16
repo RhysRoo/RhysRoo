@@ -1,31 +1,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Rhys Parsons</h1>
-<h3 align="center">A Passionate Computer Science Student from the University of Portsmouth</h3>
-
-<p align="center"> 
-  <a href="https://www.port.ac.uk" target="_blank" rel="noreferrer"> 
-    <img src="https://www.port.ac.uk/themes/custom/portsmouth//images/logo-mobile.png" alt="UoP" width="180" height="70"/> 
-  </a>
-</p>
-
-<h3 align="left">🌱 Currently Learning:</h3>
-  <ul>
-  <li>Theorical Computer Science</li> 
-  <li>Artificial Intelligence</li>
-  <li>Final Year Project</li>
-  <li>Distributed Systems</li>
-   <li>Internet of Things</li>
-</ul>
-
-<h3 align="left">💬 About Me:</h3>
-  <ul>
-  <li>3nd year Computer Science student looking to gain valuable industry experience</li>
-  <li>Highly motivated and hardworking individual who is quick to grasp new ideas and concepts</li>
-  <li>Able to work well on own initiative as well as part of a team</li>
-  <li>Can demonstrate the high levels of motivation required to meet the tightest of deadlines</li>
-  </ul>
+ <h1 align="center">Hi 👋, I'm Rhys Parsons</h1>
 
 <h3 align="left">Connect With Me:</h3>
 <p align="left">

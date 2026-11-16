@@ -1,7 +1,7 @@
 
 
 
- <h1 align="center">Hi 👋, I'm Rhys Parsons</h1>
+ <h1 align="center">Hi, I'm Rhys Parsons</h1>
 
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
